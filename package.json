@@ -10,16 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonardogiusti/wave-generator.git"
+    "url": "git+https://github.com/lndgst/wave-generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
-  "bugs": {
-    "url": "https://github.com/leonardogiusti/wave-generator/issues"
+  "engines": {
+    "node": ">=18.0.0"
   },
-  "homepage": "https://github.com/leonardogiusti/wave-generator#readme",
+  "bugs": {
+    "url": "https://github.com/lndgst/wave-generator/issues"
+  },
+  "homepage": "https://github.com/lndgst/wave-generator#readme",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^6.2.4",
     "@tailwindcss/vite": "^4.1.18",
